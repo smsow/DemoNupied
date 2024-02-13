@@ -1,2 +1,1 @@
-# DemoNupied
- 
+# camera_kit_demo
